@@ -10,6 +10,6 @@ class Array2Demo{
 				sum += arr[i][x];
 			}
 		}
-		System.out.println("���۶�Ϊ:"+sum);
+		System.out.println("年度销售额为:"+sum);
 	}
 }
